@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 ##.right_section
 ##.userbar
 ##.p_thread
